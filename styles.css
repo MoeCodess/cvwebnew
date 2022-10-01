@@ -1,0 +1,52 @@
+body {
+  background-color: lightcyan;
+
+}
+
+hr {
+
+  border-style: dotted;
+  height: 3px;
+  border-width: 0.9ex 0 0 ;
+  border-color: LightSeaGreen;
+  width: 450px; margin-left: 0;
+
+}
+
+p {
+  font-family: "Courier New", monospace;
+  font-style: italic;
+
+}
+
+form {
+  font-family: "Courier New", monospace;
+  color: #66BFBF;
+
+
+}
+h1 {
+  font-family: "Courier New", monospace;
+  color: #008B8B;
+}
+h3 {
+  font-family: "Courier New", monospace;
+  color: #66BFBF;
+
+}
+
+ul {
+  font-family: "Courier New", monospace;
+}
+
+table {
+  font-family: "Courier New", monospace;
+}
+
+a {
+  font-family: "Courier New", monospace;
+}
+
+img {
+  height: 130px;
+}
